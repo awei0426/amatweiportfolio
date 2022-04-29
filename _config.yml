@@ -6,5 +6,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Please contact me if you would like me to create a website for you or your company.  
   <br><br>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
